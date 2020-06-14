@@ -2,14 +2,17 @@
   "name": "managing-packages-with-npm",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/mondo192/freeCodeCamp/tree/master/apis-and-microservices/managing-packages-with-npm"
+    "url": "https://idontknow/todo.git"
   },
   "author": "Eamonn Keogh",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
