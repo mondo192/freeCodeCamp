@@ -1,19 +1,15 @@
 {
   "name": "managing-packages-with-npm",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "",
-  "main": "server.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/mondo192/freeCodeCamp.git"
+    "url": "https://github.com/mondo192/freeCodeCamp/tree/master/apis-and-microservices/managing-packages-with-npm"
   },
   "author": "Eamonn Keogh",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/mondo192/freeCodeCamp/issues"
-  },
-  "homepage": "https://github.com/mondo192/freeCodeCamp#readme"
+  "license": "MIT"
 }
